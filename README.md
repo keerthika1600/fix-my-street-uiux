@@ -7,14 +7,15 @@ Community Maintenance Solution – enabling citizens to report and track civic i
 
 ## What I Built
 - Home screen with issue summary and recent issues
-- Issue reporting flow with validation and feedback
+- Issue reporting with required field validation
+- Confirmation dialog on submit
 - Issue details screen with status timeline
-- Success and error dialogs
 - Bottom navigation (Home, Report, Profile)
+- Photo upload interaction (UX-level)
 
-## Prototype Link
+## Prototype
+Figma Link:  
 https://www.figma.com/design/hbF0NeEfR2lBoTvt5in91D/fixmystreet-community-maintenance
 
 ## Note
-This project focuses on UI/UX design and interaction flows only. No backend or database is implemented.
-
+This repository focuses on UI/UX design and interaction flows. No backend or database is implemented.
